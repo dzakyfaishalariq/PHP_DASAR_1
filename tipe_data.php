@@ -12,3 +12,7 @@ echo "undescore : ";
 var_dump(2_147_483_647);
 echo "float : ";
 var_dump(1.23);
+echo "floating point dengan E notation : ";
+var_dump(1.23e-3);
+echo "floating point dengan E notation : ";
+var_dump(1.23e+3);
